@@ -1,5 +1,7 @@
 # SlixonChain Network [PoA]
 
+## Clearly Experimental - Don't know what (Real) to do with it yet
+
 [![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://playground.substrate.dev/?deploy=node-template)
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
